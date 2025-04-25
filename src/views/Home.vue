@@ -71,7 +71,6 @@ onMounted(() => {
   justify-content: center;
   padding: 2rem;
   position: relative;
-  font-family: "Helvetica Neue", sans-serif;
   border-radius: 10px;
 
   &.happy-bg {
